@@ -21,7 +21,7 @@ Warm-up exercises
     7. print them in alphabetical order
     8. print only those of which there are multiple copies
 
-3. After that... 
+3. After that...
    1. Make a Fibonacci function, using the recursive definition.
    2. Make another version that uses iteration.
    3. Make another version that returns all the numbers up to the given value in an array.
@@ -36,4 +36,5 @@ Warm-up exercises
    Calculate the value of the expression.
 
    Example:         1 2 3 * +
+
    Result:          7           = (3 * 2) + 1
